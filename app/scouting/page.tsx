@@ -653,6 +653,8 @@ function CompareView({
   percentileDataB: PercentileDatum[];
 }) {
   const bothSelected = playerA !== null && playerB !== null;
+  const samePlayer =
+    bothSelected && playerA!.player_id === playerB!.player_id;
   const { openAssistant } = useApp();
 
   return (
@@ -721,10 +723,12 @@ function CompareView({
             </div>
           </section>
 
-          <div className="flex justify-center">
+          <div className="flex flex-col items-center gap-2">
             <button
               type="button"
+              disabled={samePlayer}
               onClick={() => {
+                if (samePlayer) return;
                 openAssistant({
                   mode: 'comparison_report',
                   eyebrow: 'Comparison Report',
@@ -733,11 +737,16 @@ function CompareView({
                   context: { playerA, playerB },
                 });
               }}
-              className="flex items-center gap-2 rounded-md bg-[#1A3C2E] px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-[#1A3C2E]/90 focus:outline-none focus:ring-2 focus:ring-[#1A3C2E]/30"
+              className="flex items-center gap-2 rounded-md bg-[#1A3C2E] px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-[#1A3C2E]/90 focus:outline-none focus:ring-2 focus:ring-[#1A3C2E]/30 disabled:cursor-not-allowed disabled:opacity-50 disabled:hover:bg-[#1A3C2E]"
             >
               <Sparkles className="h-4 w-4" />
               Compare Reports
             </button>
+            {samePlayer && (
+              <p className="text-xs text-[#1A3C2E]/60">
+                Pick two different players to generate a comparison.
+              </p>
+            )}
           </div>
         </>
       ) : (
