@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($json = Get-Content \"C:\\\\Users\\\\jonla\\\\football-analytics-hub\\\\public\\\\data\\\\players.json\" -Raw | ConvertFrom-Json; $json | Group-Object position_group | Select-Object Name, Count | Sort-Object Count -Descending | Format-Table -AutoSize; Write-Host \"`nSample by group:\"; foreach \\($g in @\\('Goalkeeper','Defender','Midfielder','Forward'\\)\\) { $sample = $json | Where-Object { $_.position_group -eq $g } | Sort-Object minutes -Descending | Select-Object -First 1; Write-Host \\(\"  {0,-11} -> {1} \\({2}\\) at {3}, {4:N0} min\" -f $g, $sample.player, $sample.position, $sample.team, $sample.minutes\\) })",
+      "Skill(claude-api)",
+      "PowerShell(npm install *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}

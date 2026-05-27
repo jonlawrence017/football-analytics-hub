@@ -1,0 +1,7814 @@
+[
+  {
+    "match_id": 3773386,
+    "season": "2020/2021",
+    "match_date": "2020-10-31",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773565,
+    "season": "2020/2021",
+    "match_date": "2021-01-09",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 3773457,
+    "season": "2020/2021",
+    "match_date": "2021-05-16",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773631,
+    "season": "2020/2021",
+    "match_date": "2021-02-07",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773665,
+    "season": "2020/2021",
+    "match_date": "2021-03-06",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773497,
+    "season": "2020/2021",
+    "match_date": "2021-04-10",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773660,
+    "season": "2020/2021",
+    "match_date": "2020-12-13",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773593,
+    "season": "2020/2021",
+    "match_date": "2020-09-27",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773466,
+    "season": "2020/2021",
+    "match_date": "2020-10-01",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773585,
+    "season": "2020/2021",
+    "match_date": "2020-10-24",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773552,
+    "season": "2020/2021",
+    "match_date": "2021-01-03",
+    "home_team": "Huesca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773672,
+    "season": "2020/2021",
+    "match_date": "2020-10-04",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773587,
+    "season": "2020/2021",
+    "match_date": "2020-10-17",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773656,
+    "season": "2020/2021",
+    "match_date": "2020-11-21",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773377,
+    "season": "2020/2021",
+    "match_date": "2020-12-19",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773586,
+    "season": "2020/2021",
+    "match_date": "2021-04-29",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773372,
+    "season": "2020/2021",
+    "match_date": "2021-05-08",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773387,
+    "season": "2020/2021",
+    "match_date": "2021-05-11",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773695,
+    "season": "2020/2021",
+    "match_date": "2021-05-02",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773369,
+    "season": "2020/2021",
+    "match_date": "2021-03-15",
+    "home_team": "Barcelona",
+    "away_team": "Huesca",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773661,
+    "season": "2020/2021",
+    "match_date": "2021-04-22",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773597,
+    "season": "2020/2021",
+    "match_date": "2021-03-21",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 6
+  },
+  {
+    "match_id": 3773523,
+    "season": "2020/2021",
+    "match_date": "2020-12-16",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773571,
+    "season": "2020/2021",
+    "match_date": "2020-12-22",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773428,
+    "season": "2020/2021",
+    "match_date": "2020-12-05",
+    "home_team": "Cádiz",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3764661,
+    "season": "2020/2021",
+    "match_date": "2021-01-06",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3773526,
+    "season": "2020/2021",
+    "match_date": "2021-02-13",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773474,
+    "season": "2020/2021",
+    "match_date": "2021-04-05",
+    "home_team": "Barcelona",
+    "away_team": "Real Valladolid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773625,
+    "season": "2020/2021",
+    "match_date": "2021-02-27",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773403,
+    "season": "2020/2021",
+    "match_date": "2021-01-31",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3773547,
+    "season": "2020/2021",
+    "match_date": "2020-11-29",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773415,
+    "season": "2020/2021",
+    "match_date": "2021-02-21",
+    "home_team": "Barcelona",
+    "away_team": "Cádiz",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3764440,
+    "season": "2020/2021",
+    "match_date": "2021-02-24",
+    "home_team": "Barcelona",
+    "away_team": "Elche",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3773689,
+    "season": "2020/2021",
+    "match_date": "2021-04-25",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3773477,
+    "season": "2020/2021",
+    "match_date": "2020-11-07",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 303731,
+    "season": "2019/2020",
+    "match_date": "2020-02-22",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 303532,
+    "season": "2019/2020",
+    "match_date": "2020-06-16",
+    "home_team": "Barcelona",
+    "away_team": "Leganés",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 303516,
+    "season": "2019/2020",
+    "match_date": "2020-06-27",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 303596,
+    "season": "2019/2020",
+    "match_date": "2019-12-18",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 303430,
+    "season": "2019/2020",
+    "match_date": "2019-09-24",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 303725,
+    "season": "2019/2020",
+    "match_date": "2020-07-05",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 303504,
+    "season": "2019/2020",
+    "match_date": "2019-11-02",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 303451,
+    "season": "2019/2020",
+    "match_date": "2019-12-07",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 303664,
+    "season": "2019/2020",
+    "match_date": "2019-12-14",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 303682,
+    "season": "2019/2020",
+    "match_date": "2020-02-02",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 303400,
+    "season": "2019/2020",
+    "match_date": "2020-01-25",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 303634,
+    "season": "2019/2020",
+    "match_date": "2020-07-16",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 303421,
+    "season": "2019/2020",
+    "match_date": "2020-07-19",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 303493,
+    "season": "2019/2020",
+    "match_date": "2020-06-23",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 303680,
+    "season": "2019/2020",
+    "match_date": "2020-07-11",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 303479,
+    "season": "2019/2020",
+    "match_date": "2020-03-07",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 303615,
+    "season": "2019/2020",
+    "match_date": "2020-07-08",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 303696,
+    "season": "2019/2020",
+    "match_date": "2020-06-30",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 303487,
+    "season": "2019/2020",
+    "match_date": "2019-11-09",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 303600,
+    "season": "2019/2020",
+    "match_date": "2019-10-29",
+    "home_team": "Barcelona",
+    "away_team": "Real Valladolid",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 303548,
+    "season": "2019/2020",
+    "match_date": "2020-06-13",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 303652,
+    "season": "2019/2020",
+    "match_date": "2020-01-04",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 303674,
+    "season": "2019/2020",
+    "match_date": "2020-06-19",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 303470,
+    "season": "2019/2020",
+    "match_date": "2020-03-01",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 303700,
+    "season": "2019/2020",
+    "match_date": "2019-10-19",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 303707,
+    "season": "2019/2020",
+    "match_date": "2020-02-09",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 303666,
+    "season": "2019/2020",
+    "match_date": "2019-09-21",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 303715,
+    "season": "2019/2020",
+    "match_date": "2019-11-23",
+    "home_team": "Leganés",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 303377,
+    "season": "2019/2020",
+    "match_date": "2020-02-15",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 303524,
+    "season": "2019/2020",
+    "match_date": "2019-12-01",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 303517,
+    "season": "2019/2020",
+    "match_date": "2019-12-21",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 303610,
+    "season": "2019/2020",
+    "match_date": "2020-01-19",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 303473,
+    "season": "2019/2020",
+    "match_date": "2019-10-06",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 15978,
+    "season": "2018/2019",
+    "match_date": "2018-09-15",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 15998,
+    "season": "2018/2019",
+    "match_date": "2018-09-26",
+    "home_team": "Leganés",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 16029,
+    "season": "2018/2019",
+    "match_date": "2018-10-20",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 16073,
+    "season": "2018/2019",
+    "match_date": "2018-11-24",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 16086,
+    "season": "2018/2019",
+    "match_date": "2018-12-08",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 16190,
+    "season": "2018/2019",
+    "match_date": "2019-02-23",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 16109,
+    "season": "2018/2019",
+    "match_date": "2018-12-22",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 16120,
+    "season": "2018/2019",
+    "match_date": "2019-01-06",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 16182,
+    "season": "2018/2019",
+    "match_date": "2019-02-16",
+    "home_team": "Barcelona",
+    "away_team": "Real Valladolid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 16215,
+    "season": "2018/2019",
+    "match_date": "2019-03-17",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 16173,
+    "season": "2018/2019",
+    "match_date": "2019-02-10",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 16265,
+    "season": "2018/2019",
+    "match_date": "2019-04-20",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 15946,
+    "season": "2018/2019",
+    "match_date": "2018-08-18",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 16157,
+    "season": "2018/2019",
+    "match_date": "2019-02-02",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 16136,
+    "season": "2018/2019",
+    "match_date": "2019-01-20",
+    "home_team": "Barcelona",
+    "away_team": "Leganés",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 16248,
+    "season": "2018/2019",
+    "match_date": "2019-04-06",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 16056,
+    "season": "2018/2019",
+    "match_date": "2018-11-11",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 3,
+    "away_score": 4
+  },
+  {
+    "match_id": 16289,
+    "season": "2018/2019",
+    "match_date": "2019-04-27",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 16079,
+    "season": "2018/2019",
+    "match_date": "2018-12-02",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 16149,
+    "season": "2018/2019",
+    "match_date": "2019-01-27",
+    "home_team": "Girona",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 16275,
+    "season": "2018/2019",
+    "match_date": "2019-04-23",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 15973,
+    "season": "2018/2019",
+    "match_date": "2018-09-02",
+    "home_team": "Barcelona",
+    "away_team": "Huesca",
+    "home_score": 8,
+    "away_score": 2
+  },
+  {
+    "match_id": 16317,
+    "season": "2018/2019",
+    "match_date": "2019-05-19",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 16131,
+    "season": "2018/2019",
+    "match_date": "2019-01-13",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 16205,
+    "season": "2018/2019",
+    "match_date": "2019-03-09",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 16095,
+    "season": "2018/2019",
+    "match_date": "2018-12-16",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 16306,
+    "season": "2018/2019",
+    "match_date": "2019-05-12",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 16010,
+    "season": "2018/2019",
+    "match_date": "2018-09-29",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 15986,
+    "season": "2018/2019",
+    "match_date": "2018-09-23",
+    "home_team": "Barcelona",
+    "away_team": "Girona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 16240,
+    "season": "2018/2019",
+    "match_date": "2019-04-02",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 4
+  },
+  {
+    "match_id": 16023,
+    "season": "2018/2019",
+    "match_date": "2018-10-07",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 16196,
+    "season": "2018/2019",
+    "match_date": "2019-03-02",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 15956,
+    "season": "2018/2019",
+    "match_date": "2018-08-25",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 16231,
+    "season": "2018/2019",
+    "match_date": "2019-03-30",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 9880,
+    "season": "2017/2018",
+    "match_date": "2018-04-14",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 9912,
+    "season": "2017/2018",
+    "match_date": "2018-04-29",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 9924,
+    "season": "2017/2018",
+    "match_date": "2018-05-06",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 9855,
+    "season": "2017/2018",
+    "match_date": "2018-03-18",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 9827,
+    "season": "2017/2018",
+    "match_date": "2018-03-01",
+    "home_team": "Las Palmas",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 9799,
+    "season": "2017/2018",
+    "match_date": "2018-02-17",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 9636,
+    "season": "2017/2018",
+    "match_date": "2017-10-01",
+    "home_team": "Barcelona",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 9609,
+    "season": "2017/2018",
+    "match_date": "2017-09-19",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 9575,
+    "season": "2017/2018",
+    "match_date": "2017-08-20",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 9928,
+    "season": "2017/2018",
+    "match_date": "2018-05-09",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 9736,
+    "season": "2017/2018",
+    "match_date": "2017-12-23",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 9742,
+    "season": "2017/2018",
+    "match_date": "2018-01-07",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 9765,
+    "season": "2017/2018",
+    "match_date": "2018-01-21",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 9661,
+    "season": "2017/2018",
+    "match_date": "2017-10-28",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 9592,
+    "season": "2017/2018",
+    "match_date": "2017-09-09",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 9870,
+    "season": "2017/2018",
+    "match_date": "2018-04-07",
+    "home_team": "Barcelona",
+    "away_team": "Leganés",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 9783,
+    "season": "2017/2018",
+    "match_date": "2018-02-04",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 9700,
+    "season": "2017/2018",
+    "match_date": "2017-12-02",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 9860,
+    "season": "2017/2018",
+    "match_date": "2018-03-31",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 9695,
+    "season": "2017/2018",
+    "match_date": "2017-11-26",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 9794,
+    "season": "2017/2018",
+    "match_date": "2018-02-11",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 9717,
+    "season": "2017/2018",
+    "match_date": "2017-12-10",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 9673,
+    "season": "2017/2018",
+    "match_date": "2017-11-04",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 9650,
+    "season": "2017/2018",
+    "match_date": "2017-10-21",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 9620,
+    "season": "2017/2018",
+    "match_date": "2017-09-23",
+    "home_team": "Girona",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 9837,
+    "season": "2017/2018",
+    "match_date": "2018-03-04",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 9811,
+    "season": "2017/2018",
+    "match_date": "2018-02-24",
+    "home_team": "Barcelona",
+    "away_team": "Girona",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 9642,
+    "season": "2017/2018",
+    "match_date": "2017-10-14",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 9774,
+    "season": "2017/2018",
+    "match_date": "2018-01-28",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 9602,
+    "season": "2017/2018",
+    "match_date": "2017-09-16",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 9948,
+    "season": "2017/2018",
+    "match_date": "2018-05-20",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 9682,
+    "season": "2017/2018",
+    "match_date": "2017-11-18",
+    "home_team": "Leganés",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 9581,
+    "season": "2017/2018",
+    "match_date": "2017-08-26",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 9726,
+    "season": "2017/2018",
+    "match_date": "2017-12-17",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 9754,
+    "season": "2017/2018",
+    "match_date": "2018-01-14",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 9889,
+    "season": "2017/2018",
+    "match_date": "2018-04-17",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 266989,
+    "season": "2016/2017",
+    "match_date": "2016-11-06",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266357,
+    "season": "2016/2017",
+    "match_date": "2016-12-10",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 267569,
+    "season": "2016/2017",
+    "match_date": "2017-04-23",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 267212,
+    "season": "2016/2017",
+    "match_date": "2016-09-17",
+    "home_team": "Leganés",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 266669,
+    "season": "2016/2017",
+    "match_date": "2016-09-10",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266892,
+    "season": "2016/2017",
+    "match_date": "2016-08-28",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 267220,
+    "season": "2016/2017",
+    "match_date": "2016-09-21",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 267670,
+    "season": "2016/2017",
+    "match_date": "2016-08-20",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 6,
+    "away_score": 2
+  },
+  {
+    "match_id": 266516,
+    "season": "2016/2017",
+    "match_date": "2017-01-29",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 267039,
+    "season": "2016/2017",
+    "match_date": "2017-05-14",
+    "home_team": "Las Palmas",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 266477,
+    "season": "2016/2017",
+    "match_date": "2017-01-08",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 267101,
+    "season": "2016/2017",
+    "match_date": "2017-04-26",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 7,
+    "away_score": 1
+  },
+  {
+    "match_id": 266440,
+    "season": "2016/2017",
+    "match_date": "2017-03-19",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 266033,
+    "season": "2016/2017",
+    "match_date": "2016-10-22",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 267660,
+    "season": "2016/2017",
+    "match_date": "2017-03-12",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 266273,
+    "season": "2016/2017",
+    "match_date": "2017-02-11",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 6
+  },
+  {
+    "match_id": 267395,
+    "season": "2016/2017",
+    "match_date": "2017-01-14",
+    "home_team": "Barcelona",
+    "away_team": "Las Palmas",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 266874,
+    "season": "2016/2017",
+    "match_date": "2017-02-04",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 266731,
+    "season": "2016/2017",
+    "match_date": "2017-01-22",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 266528,
+    "season": "2016/2017",
+    "match_date": "2016-12-18",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 266280,
+    "season": "2016/2017",
+    "match_date": "2017-04-05",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 267432,
+    "season": "2016/2017",
+    "match_date": "2017-05-21",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 267076,
+    "season": "2016/2017",
+    "match_date": "2016-12-03",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 267590,
+    "season": "2016/2017",
+    "match_date": "2017-04-08",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 267373,
+    "season": "2016/2017",
+    "match_date": "2017-04-15",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 267077,
+    "season": "2016/2017",
+    "match_date": "2017-04-29",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 266952,
+    "season": "2016/2017",
+    "match_date": "2017-05-06",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 267464,
+    "season": "2016/2017",
+    "match_date": "2017-02-26",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266299,
+    "season": "2016/2017",
+    "match_date": "2017-03-04",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 266191,
+    "season": "2016/2017",
+    "match_date": "2016-11-27",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 265952,
+    "season": "2016/2017",
+    "match_date": "2017-03-01",
+    "home_team": "Barcelona",
+    "away_team": "Sporting Gijón",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 267492,
+    "season": "2016/2017",
+    "match_date": "2016-10-15",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 267596,
+    "season": "2016/2017",
+    "match_date": "2017-02-19",
+    "home_team": "Barcelona",
+    "away_team": "Leganés",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 267058,
+    "season": "2016/2017",
+    "match_date": "2016-10-29",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825848,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Levante UD",
+    "away_team": "Eibar",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825895,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Las Palmas",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825894,
+    "season": "2015/2016",
+    "match_date": "2016-05-01",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Getafe",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825855,
+    "season": "2015/2016",
+    "match_date": "2016-05-02",
+    "home_team": "Málaga",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825908,
+    "season": "2015/2016",
+    "match_date": "2016-05-15",
+    "home_team": "Espanyol",
+    "away_team": "Eibar",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825883,
+    "season": "2015/2016",
+    "match_date": "2016-05-15",
+    "home_team": "Málaga",
+    "away_team": "Las Palmas",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825900,
+    "season": "2015/2016",
+    "match_date": "2016-05-15",
+    "home_team": "Sporting Gijón",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825902,
+    "season": "2015/2016",
+    "match_date": "2016-05-15",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825876,
+    "season": "2015/2016",
+    "match_date": "2016-05-15",
+    "home_team": "Real Betis",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825846,
+    "season": "2015/2016",
+    "match_date": "2016-05-14",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825869,
+    "season": "2015/2016",
+    "match_date": "2016-05-14",
+    "home_team": "Athletic Club",
+    "away_team": "Sevilla",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825882,
+    "season": "2015/2016",
+    "match_date": "2016-05-14",
+    "home_team": "Atlético Madrid",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825849,
+    "season": "2015/2016",
+    "match_date": "2016-05-13",
+    "home_team": "Valencia",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825860,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Levante UD",
+    "away_team": "Atlético Madrid",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825847,
+    "season": "2015/2016",
+    "match_date": "2016-04-23",
+    "home_team": "Eibar",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825817,
+    "season": "2015/2016",
+    "match_date": "2016-03-18",
+    "home_team": "Getafe",
+    "away_team": "Eibar",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825778,
+    "season": "2015/2016",
+    "match_date": "2016-02-20",
+    "home_team": "Real Betis",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825777,
+    "season": "2015/2016",
+    "match_date": "2016-02-19",
+    "home_team": "Levante UD",
+    "away_team": "Getafe",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825740,
+    "season": "2015/2016",
+    "match_date": "2016-01-18",
+    "home_team": "Eibar",
+    "away_team": "Granada",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825875,
+    "season": "2015/2016",
+    "match_date": "2016-04-24",
+    "home_team": "Villarreal",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825884,
+    "season": "2015/2016",
+    "match_date": "2016-04-24",
+    "home_team": "Sevilla",
+    "away_team": "Real Betis",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825842,
+    "season": "2015/2016",
+    "match_date": "2016-04-24",
+    "home_team": "Levante UD",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825890,
+    "season": "2015/2016",
+    "match_date": "2016-04-23",
+    "home_team": "Atlético Madrid",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825871,
+    "season": "2015/2016",
+    "match_date": "2016-04-22",
+    "home_team": "Las Palmas",
+    "away_team": "Espanyol",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825896,
+    "season": "2015/2016",
+    "match_date": "2016-04-21",
+    "home_team": "Granada",
+    "away_team": "Levante UD",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825841,
+    "season": "2015/2016",
+    "match_date": "2016-04-21",
+    "home_team": "Real Sociedad",
+    "away_team": "Getafe",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825843,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "Málaga",
+    "away_team": "Rayo Vallecano",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825839,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "Sporting Gijón",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825838,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "Athletic Club",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825840,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "Valencia",
+    "away_team": "Eibar",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825837,
+    "season": "2015/2016",
+    "match_date": "2016-04-19",
+    "home_team": "Real Betis",
+    "away_team": "Las Palmas",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825836,
+    "season": "2015/2016",
+    "match_date": "2016-04-17",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825835,
+    "season": "2015/2016",
+    "match_date": "2016-04-17",
+    "home_team": "Málaga",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825834,
+    "season": "2015/2016",
+    "match_date": "2016-04-17",
+    "home_team": "Atlético Madrid",
+    "away_team": "Granada",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825906,
+    "season": "2015/2016",
+    "match_date": "2016-04-17",
+    "home_team": "Sevilla",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825897,
+    "season": "2015/2016",
+    "match_date": "2016-04-16",
+    "home_team": "Eibar",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825889,
+    "season": "2015/2016",
+    "match_date": "2016-04-16",
+    "home_team": "Celta Vigo",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825833,
+    "season": "2015/2016",
+    "match_date": "2016-04-16",
+    "home_team": "Getafe",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 3825857,
+    "season": "2015/2016",
+    "match_date": "2016-04-15",
+    "home_team": "Levante UD",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825863,
+    "season": "2015/2016",
+    "match_date": "2016-04-11",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Las Palmas",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825829,
+    "season": "2015/2016",
+    "match_date": "2016-04-10",
+    "home_team": "Athletic Club",
+    "away_team": "Rayo Vallecano",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825830,
+    "season": "2015/2016",
+    "match_date": "2016-04-10",
+    "home_team": "Villarreal",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825832,
+    "season": "2015/2016",
+    "match_date": "2016-04-10",
+    "home_team": "Sporting Gijón",
+    "away_team": "Celta Vigo",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825831,
+    "season": "2015/2016",
+    "match_date": "2016-04-10",
+    "home_team": "Valencia",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825828,
+    "season": "2015/2016",
+    "match_date": "2016-04-09",
+    "home_team": "Espanyol",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825827,
+    "season": "2015/2016",
+    "match_date": "2016-04-09",
+    "home_team": "Real Betis",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825826,
+    "season": "2015/2016",
+    "match_date": "2016-04-08",
+    "home_team": "Granada",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825825,
+    "season": "2015/2016",
+    "match_date": "2016-04-04",
+    "home_team": "Levante UD",
+    "away_team": "Sporting Gijón",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825824,
+    "season": "2015/2016",
+    "match_date": "2016-04-03",
+    "home_team": "Eibar",
+    "away_team": "Villarreal",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825823,
+    "season": "2015/2016",
+    "match_date": "2016-04-03",
+    "home_team": "Sevilla",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825905,
+    "season": "2015/2016",
+    "match_date": "2016-04-03",
+    "home_team": "Málaga",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825822,
+    "season": "2015/2016",
+    "match_date": "2016-04-02",
+    "home_team": "Las Palmas",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825821,
+    "season": "2015/2016",
+    "match_date": "2016-03-20",
+    "home_team": "Espanyol",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825820,
+    "season": "2015/2016",
+    "match_date": "2016-03-20",
+    "home_team": "Real Madrid",
+    "away_team": "Sevilla",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825819,
+    "season": "2015/2016",
+    "match_date": "2016-03-20",
+    "home_team": "Valencia",
+    "away_team": "Celta Vigo",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825818,
+    "season": "2015/2016",
+    "match_date": "2016-03-19",
+    "home_team": "Real Sociedad",
+    "away_team": "Las Palmas",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825887,
+    "season": "2015/2016",
+    "match_date": "2016-03-19",
+    "home_team": "Granada",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825907,
+    "season": "2015/2016",
+    "match_date": "2016-03-19",
+    "home_team": "Sporting Gijón",
+    "away_team": "Atlético Madrid",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825903,
+    "season": "2015/2016",
+    "match_date": "2016-03-19",
+    "home_team": "Real Betis",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825816,
+    "season": "2015/2016",
+    "match_date": "2016-03-13",
+    "home_team": "Sevilla",
+    "away_team": "Villarreal",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825815,
+    "season": "2015/2016",
+    "match_date": "2016-03-13",
+    "home_team": "Levante UD",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825858,
+    "season": "2015/2016",
+    "match_date": "2016-03-12",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Eibar",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825813,
+    "season": "2015/2016",
+    "match_date": "2016-03-12",
+    "home_team": "Atlético Madrid",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825814,
+    "season": "2015/2016",
+    "match_date": "2016-03-12",
+    "home_team": "Celta Vigo",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825812,
+    "season": "2015/2016",
+    "match_date": "2016-03-11",
+    "home_team": "Málaga",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825811,
+    "season": "2015/2016",
+    "match_date": "2016-03-07",
+    "home_team": "Espanyol",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825807,
+    "season": "2015/2016",
+    "match_date": "2016-03-06",
+    "home_team": "Valencia",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825809,
+    "season": "2015/2016",
+    "match_date": "2016-03-06",
+    "home_team": "Real Betis",
+    "away_team": "Granada",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825810,
+    "season": "2015/2016",
+    "match_date": "2016-03-06",
+    "home_team": "Real Sociedad",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825808,
+    "season": "2015/2016",
+    "match_date": "2016-03-06",
+    "home_team": "Sporting Gijón",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825804,
+    "season": "2015/2016",
+    "match_date": "2016-03-05",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Málaga",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825867,
+    "season": "2015/2016",
+    "match_date": "2016-03-05",
+    "home_team": "Getafe",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825805,
+    "season": "2015/2016",
+    "match_date": "2016-03-05",
+    "home_team": "Villarreal",
+    "away_team": "Las Palmas",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825784,
+    "season": "2015/2016",
+    "match_date": "2016-02-21",
+    "home_team": "Atlético Madrid",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825782,
+    "season": "2015/2016",
+    "match_date": "2016-02-21",
+    "home_team": "Granada",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825757,
+    "season": "2015/2016",
+    "match_date": "2016-01-31",
+    "home_team": "Real Madrid",
+    "away_team": "Espanyol",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825641,
+    "season": "2015/2016",
+    "match_date": "2015-10-26",
+    "home_team": "Athletic Club",
+    "away_team": "Sporting Gijón",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825803,
+    "season": "2015/2016",
+    "match_date": "2016-03-03",
+    "home_team": "Granada",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825800,
+    "season": "2015/2016",
+    "match_date": "2016-03-02",
+    "home_team": "Celta Vigo",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825801,
+    "season": "2015/2016",
+    "match_date": "2016-03-02",
+    "home_team": "Sevilla",
+    "away_team": "Eibar",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825799,
+    "season": "2015/2016",
+    "match_date": "2016-03-02",
+    "home_team": "Málaga",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825797,
+    "season": "2015/2016",
+    "match_date": "2016-03-02",
+    "home_team": "Athletic Club",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825798,
+    "season": "2015/2016",
+    "match_date": "2016-03-02",
+    "home_team": "Levante UD",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825796,
+    "season": "2015/2016",
+    "match_date": "2016-03-01",
+    "home_team": "Las Palmas",
+    "away_team": "Getafe",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825795,
+    "season": "2015/2016",
+    "match_date": "2016-03-01",
+    "home_team": "Atlético Madrid",
+    "away_team": "Real Sociedad",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825793,
+    "season": "2015/2016",
+    "match_date": "2016-02-28",
+    "home_team": "Valencia",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825792,
+    "season": "2015/2016",
+    "match_date": "2016-02-28",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Granada",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825794,
+    "season": "2015/2016",
+    "match_date": "2016-02-28",
+    "home_team": "Villarreal",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825788,
+    "season": "2015/2016",
+    "match_date": "2016-02-27",
+    "home_team": "Getafe",
+    "away_team": "Celta Vigo",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825791,
+    "season": "2015/2016",
+    "match_date": "2016-02-27",
+    "home_team": "Real Betis",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825790,
+    "season": "2015/2016",
+    "match_date": "2016-02-27",
+    "home_team": "Sporting Gijón",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 3825787,
+    "season": "2015/2016",
+    "match_date": "2016-02-27",
+    "home_team": "Real Madrid",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825789,
+    "season": "2015/2016",
+    "match_date": "2016-02-27",
+    "home_team": "Real Sociedad",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825786,
+    "season": "2015/2016",
+    "match_date": "2016-02-26",
+    "home_team": "Eibar",
+    "away_team": "Las Palmas",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825781,
+    "season": "2015/2016",
+    "match_date": "2016-02-21",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825785,
+    "season": "2015/2016",
+    "match_date": "2016-02-21",
+    "home_team": "Málaga",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825783,
+    "season": "2015/2016",
+    "match_date": "2016-02-21",
+    "home_team": "Athletic Club",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825780,
+    "season": "2015/2016",
+    "match_date": "2016-02-20",
+    "home_team": "Espanyol",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825779,
+    "season": "2015/2016",
+    "match_date": "2016-02-20",
+    "home_team": "Celta Vigo",
+    "away_team": "Eibar",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825773,
+    "season": "2015/2016",
+    "match_date": "2016-02-14",
+    "home_team": "Eibar",
+    "away_team": "Levante UD",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825776,
+    "season": "2015/2016",
+    "match_date": "2016-02-14",
+    "home_team": "Sevilla",
+    "away_team": "Las Palmas",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825775,
+    "season": "2015/2016",
+    "match_date": "2016-02-14",
+    "home_team": "Real Sociedad",
+    "away_team": "Granada",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825769,
+    "season": "2015/2016",
+    "match_date": "2016-02-13",
+    "home_team": "Villarreal",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825770,
+    "season": "2015/2016",
+    "match_date": "2016-02-13",
+    "home_team": "Real Madrid",
+    "away_team": "Athletic Club",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825768,
+    "season": "2015/2016",
+    "match_date": "2016-02-12",
+    "home_team": "Sporting Gijón",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825736,
+    "season": "2015/2016",
+    "match_date": "2016-01-17",
+    "home_team": "Valencia",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825731,
+    "season": "2015/2016",
+    "match_date": "2016-01-10",
+    "home_team": "Las Palmas",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825685,
+    "season": "2015/2016",
+    "match_date": "2015-12-06",
+    "home_team": "Sporting Gijón",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825678,
+    "season": "2015/2016",
+    "match_date": "2015-11-29",
+    "home_team": "Eibar",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825643,
+    "season": "2015/2016",
+    "match_date": "2015-10-31",
+    "home_team": "Real Madrid",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825642,
+    "season": "2015/2016",
+    "match_date": "2015-10-30",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825638,
+    "season": "2015/2016",
+    "match_date": "2015-10-25",
+    "home_team": "Atlético Madrid",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825614,
+    "season": "2015/2016",
+    "match_date": "2015-10-03",
+    "home_team": "Granada",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825612,
+    "season": "2015/2016",
+    "match_date": "2015-09-27",
+    "home_team": "Getafe",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825607,
+    "season": "2015/2016",
+    "match_date": "2015-09-26",
+    "home_team": "Villarreal",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825595,
+    "season": "2015/2016",
+    "match_date": "2015-09-20",
+    "home_team": "Villarreal",
+    "away_team": "Athletic Club",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825579,
+    "season": "2015/2016",
+    "match_date": "2015-08-30",
+    "home_team": "Sevilla",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825572,
+    "season": "2015/2016",
+    "match_date": "2015-08-29",
+    "home_team": "Real Madrid",
+    "away_team": "Real Betis",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825774,
+    "season": "2015/2016",
+    "match_date": "2016-02-14",
+    "home_team": "Getafe",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825772,
+    "season": "2015/2016",
+    "match_date": "2016-02-13",
+    "home_team": "Valencia",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825771,
+    "season": "2015/2016",
+    "match_date": "2016-02-13",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Real Betis",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825767,
+    "season": "2015/2016",
+    "match_date": "2016-02-08",
+    "home_team": "Espanyol",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 3825706,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Celta Vigo",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825712,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Getafe",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825708,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Levante UD",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825707,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Las Palmas",
+    "away_team": "Granada",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825705,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Eibar",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825711,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825703,
+    "season": "2015/2016",
+    "match_date": "2015-12-20",
+    "home_team": "Athletic Club",
+    "away_team": "Levante UD",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825700,
+    "season": "2015/2016",
+    "match_date": "2015-12-20",
+    "home_team": "Real Madrid",
+    "away_team": "Rayo Vallecano",
+    "home_score": 10,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825701,
+    "season": "2015/2016",
+    "match_date": "2015-12-20",
+    "home_team": "Málaga",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825702,
+    "season": "2015/2016",
+    "match_date": "2015-12-20",
+    "home_team": "Real Sociedad",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825704,
+    "season": "2015/2016",
+    "match_date": "2015-12-20",
+    "home_team": "Granada",
+    "away_team": "Celta Vigo",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825891,
+    "season": "2015/2016",
+    "match_date": "2015-12-19",
+    "home_team": "Espanyol",
+    "away_team": "Las Palmas",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825699,
+    "season": "2015/2016",
+    "match_date": "2015-12-19",
+    "home_team": "Real Betis",
+    "away_team": "Sevilla",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825697,
+    "season": "2015/2016",
+    "match_date": "2015-12-19",
+    "home_team": "Valencia",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825698,
+    "season": "2015/2016",
+    "match_date": "2015-12-19",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Eibar",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825694,
+    "season": "2015/2016",
+    "match_date": "2015-12-13",
+    "home_team": "Eibar",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825693,
+    "season": "2015/2016",
+    "match_date": "2015-12-13",
+    "home_team": "Atlético Madrid",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825696,
+    "season": "2015/2016",
+    "match_date": "2015-12-13",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825695,
+    "season": "2015/2016",
+    "match_date": "2015-12-13",
+    "home_team": "Villarreal",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825689,
+    "season": "2015/2016",
+    "match_date": "2015-12-12",
+    "home_team": "Celta Vigo",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825690,
+    "season": "2015/2016",
+    "match_date": "2015-12-12",
+    "home_team": "Las Palmas",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825692,
+    "season": "2015/2016",
+    "match_date": "2015-12-12",
+    "home_team": "Sevilla",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825691,
+    "season": "2015/2016",
+    "match_date": "2015-12-12",
+    "home_team": "Levante UD",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825688,
+    "season": "2015/2016",
+    "match_date": "2015-12-11",
+    "home_team": "Getafe",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825687,
+    "season": "2015/2016",
+    "match_date": "2015-12-07",
+    "home_team": "Espanyol",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825683,
+    "season": "2015/2016",
+    "match_date": "2015-12-06",
+    "home_team": "Real Sociedad",
+    "away_team": "Eibar",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825686,
+    "season": "2015/2016",
+    "match_date": "2015-12-06",
+    "home_team": "Athletic Club",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825684,
+    "season": "2015/2016",
+    "match_date": "2015-12-06",
+    "home_team": "Villarreal",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825681,
+    "season": "2015/2016",
+    "match_date": "2015-12-05",
+    "home_team": "Real Madrid",
+    "away_team": "Getafe",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825682,
+    "season": "2015/2016",
+    "match_date": "2015-12-05",
+    "home_team": "Granada",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825680,
+    "season": "2015/2016",
+    "match_date": "2015-12-05",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825677,
+    "season": "2015/2016",
+    "match_date": "2015-11-29",
+    "home_team": "Sevilla",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825675,
+    "season": "2015/2016",
+    "match_date": "2015-11-29",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825676,
+    "season": "2015/2016",
+    "match_date": "2015-11-29",
+    "home_team": "Getafe",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825674,
+    "season": "2015/2016",
+    "match_date": "2015-11-28",
+    "home_team": "Atlético Madrid",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825673,
+    "season": "2015/2016",
+    "match_date": "2015-11-28",
+    "home_team": "Las Palmas",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825671,
+    "season": "2015/2016",
+    "match_date": "2015-11-28",
+    "home_team": "Celta Vigo",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825672,
+    "season": "2015/2016",
+    "match_date": "2015-11-28",
+    "home_team": "Málaga",
+    "away_team": "Granada",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825670,
+    "season": "2015/2016",
+    "match_date": "2015-11-27",
+    "home_team": "Levante UD",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825669,
+    "season": "2015/2016",
+    "match_date": "2015-11-23",
+    "home_team": "Getafe",
+    "away_team": "Rayo Vallecano",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825668,
+    "season": "2015/2016",
+    "match_date": "2015-11-22",
+    "home_team": "Sporting Gijón",
+    "away_team": "Levante UD",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825666,
+    "season": "2015/2016",
+    "match_date": "2015-11-22",
+    "home_team": "Real Betis",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825665,
+    "season": "2015/2016",
+    "match_date": "2015-11-22",
+    "home_team": "Granada",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825667,
+    "season": "2015/2016",
+    "match_date": "2015-11-22",
+    "home_team": "Villarreal",
+    "away_team": "Eibar",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825664,
+    "season": "2015/2016",
+    "match_date": "2015-11-21",
+    "home_team": "Real Sociedad",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825662,
+    "season": "2015/2016",
+    "match_date": "2015-11-21",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825888,
+    "season": "2015/2016",
+    "match_date": "2015-11-21",
+    "home_team": "Valencia",
+    "away_team": "Las Palmas",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825663,
+    "season": "2015/2016",
+    "match_date": "2015-11-21",
+    "home_team": "Espanyol",
+    "away_team": "Málaga",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825659,
+    "season": "2015/2016",
+    "match_date": "2015-11-08",
+    "home_team": "Athletic Club",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825658,
+    "season": "2015/2016",
+    "match_date": "2015-11-08",
+    "home_team": "Atlético Madrid",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825660,
+    "season": "2015/2016",
+    "match_date": "2015-11-08",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825661,
+    "season": "2015/2016",
+    "match_date": "2015-11-08",
+    "home_team": "Sevilla",
+    "away_team": "Real Madrid",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825656,
+    "season": "2015/2016",
+    "match_date": "2015-11-07",
+    "home_team": "Levante UD",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825657,
+    "season": "2015/2016",
+    "match_date": "2015-11-07",
+    "home_team": "Málaga",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825652,
+    "season": "2015/2016",
+    "match_date": "2015-11-06",
+    "home_team": "Las Palmas",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825623,
+    "season": "2015/2016",
+    "match_date": "2015-10-17",
+    "home_team": "Valencia",
+    "away_team": "Málaga",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825626,
+    "season": "2015/2016",
+    "match_date": "2015-10-17",
+    "home_team": "Real Betis",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825616,
+    "season": "2015/2016",
+    "match_date": "2015-10-03",
+    "home_team": "Málaga",
+    "away_team": "Real Sociedad",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825608,
+    "season": "2015/2016",
+    "match_date": "2015-09-26",
+    "home_team": "Eibar",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825601,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825899,
+    "season": "2015/2016",
+    "match_date": "2016-04-24",
+    "home_team": "Getafe",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825852,
+    "season": "2015/2016",
+    "match_date": "2016-04-16",
+    "home_team": "Las Palmas",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825647,
+    "season": "2015/2016",
+    "match_date": "2015-10-31",
+    "home_team": "Valencia",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825637,
+    "season": "2015/2016",
+    "match_date": "2015-10-25",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825628,
+    "season": "2015/2016",
+    "match_date": "2015-10-18",
+    "home_team": "Getafe",
+    "away_team": "Las Palmas",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825619,
+    "season": "2015/2016",
+    "match_date": "2015-10-04",
+    "home_team": "Levante UD",
+    "away_team": "Villarreal",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825618,
+    "season": "2015/2016",
+    "match_date": "2015-10-03",
+    "home_team": "Las Palmas",
+    "away_team": "Eibar",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825611,
+    "season": "2015/2016",
+    "match_date": "2015-09-27",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Espanyol",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825609,
+    "season": "2015/2016",
+    "match_date": "2015-09-27",
+    "home_team": "Real Sociedad",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825598,
+    "season": "2015/2016",
+    "match_date": "2015-09-22",
+    "home_team": "Atlético Madrid",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825584,
+    "season": "2015/2016",
+    "match_date": "2015-09-13",
+    "home_team": "Granada",
+    "away_team": "Villarreal",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825570,
+    "season": "2015/2016",
+    "match_date": "2015-08-24",
+    "home_team": "Granada",
+    "away_team": "Eibar",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825562,
+    "season": "2015/2016",
+    "match_date": "2015-08-21",
+    "home_team": "Málaga",
+    "away_team": "Sevilla",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825904,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Eibar",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825901,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Real Madrid",
+    "away_team": "Valencia",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825898,
+    "season": "2015/2016",
+    "match_date": "2016-04-02",
+    "home_team": "Celta Vigo",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825893,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "Real Madrid",
+    "away_team": "Villarreal",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825892,
+    "season": "2015/2016",
+    "match_date": "2015-09-22",
+    "home_team": "Granada",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825886,
+    "season": "2015/2016",
+    "match_date": "2016-04-23",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825885,
+    "season": "2015/2016",
+    "match_date": "2016-04-01",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825881,
+    "season": "2015/2016",
+    "match_date": "2016-03-14",
+    "home_team": "Granada",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825880,
+    "season": "2015/2016",
+    "match_date": "2016-03-19",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Levante UD",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825879,
+    "season": "2015/2016",
+    "match_date": "2016-03-13",
+    "home_team": "Las Palmas",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825878,
+    "season": "2015/2016",
+    "match_date": "2016-04-30",
+    "home_team": "Atlético Madrid",
+    "away_team": "Rayo Vallecano",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825877,
+    "season": "2015/2016",
+    "match_date": "2016-04-03",
+    "home_team": "Athletic Club",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825874,
+    "season": "2015/2016",
+    "match_date": "2015-10-24",
+    "home_team": "Sevilla",
+    "away_team": "Getafe",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825873,
+    "season": "2015/2016",
+    "match_date": "2016-05-01",
+    "home_team": "Valencia",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825872,
+    "season": "2015/2016",
+    "match_date": "2016-04-02",
+    "home_team": "Atlético Madrid",
+    "away_team": "Real Betis",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825870,
+    "season": "2015/2016",
+    "match_date": "2016-05-01",
+    "home_team": "Athletic Club",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825868,
+    "season": "2015/2016",
+    "match_date": "2016-04-25",
+    "home_team": "Celta Vigo",
+    "away_team": "Granada",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825866,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Las Palmas",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825865,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Getafe",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825864,
+    "season": "2015/2016",
+    "match_date": "2016-04-30",
+    "home_team": "Real Sociedad",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825862,
+    "season": "2015/2016",
+    "match_date": "2016-04-19",
+    "home_team": "Espanyol",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825861,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Real Sociedad",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825859,
+    "season": "2015/2016",
+    "match_date": "2016-04-30",
+    "home_team": "Granada",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825856,
+    "season": "2015/2016",
+    "match_date": "2016-04-09",
+    "home_team": "Real Madrid",
+    "away_team": "Eibar",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825854,
+    "season": "2015/2016",
+    "match_date": "2016-04-29",
+    "home_team": "Sporting Gijón",
+    "away_team": "Eibar",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825853,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Sevilla",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 3825851,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Villarreal",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825850,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Celta Vigo",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825845,
+    "season": "2015/2016",
+    "match_date": "2016-05-01",
+    "home_team": "Espanyol",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825844,
+    "season": "2015/2016",
+    "match_date": "2016-03-13",
+    "home_team": "Athletic Club",
+    "away_team": "Real Betis",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825806,
+    "season": "2015/2016",
+    "match_date": "2016-03-05",
+    "home_team": "Real Madrid",
+    "away_team": "Celta Vigo",
+    "home_score": 7,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825802,
+    "season": "2015/2016",
+    "match_date": "2016-03-03",
+    "home_team": "Espanyol",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825679,
+    "season": "2015/2016",
+    "match_date": "2015-12-05",
+    "home_team": "Real Betis",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825655,
+    "season": "2015/2016",
+    "match_date": "2015-11-07",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Granada",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825654,
+    "season": "2015/2016",
+    "match_date": "2015-11-07",
+    "home_team": "Celta Vigo",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 3825653,
+    "season": "2015/2016",
+    "match_date": "2015-11-07",
+    "home_team": "Eibar",
+    "away_team": "Getafe",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825651,
+    "season": "2015/2016",
+    "match_date": "2015-11-01",
+    "home_team": "Espanyol",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825650,
+    "season": "2015/2016",
+    "match_date": "2015-11-01",
+    "home_team": "Real Betis",
+    "away_team": "Athletic Club",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825649,
+    "season": "2015/2016",
+    "match_date": "2015-11-01",
+    "home_team": "Sporting Gijón",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825648,
+    "season": "2015/2016",
+    "match_date": "2015-11-01",
+    "home_team": "Eibar",
+    "away_team": "Rayo Vallecano",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825765,
+    "season": "2015/2016",
+    "match_date": "2016-02-07",
+    "home_team": "Celta Vigo",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825766,
+    "season": "2015/2016",
+    "match_date": "2016-02-07",
+    "home_team": "Real Betis",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825764,
+    "season": "2015/2016",
+    "match_date": "2016-02-07",
+    "home_team": "Granada",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825760,
+    "season": "2015/2016",
+    "match_date": "2016-02-06",
+    "home_team": "Atlético Madrid",
+    "away_team": "Eibar",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825763,
+    "season": "2015/2016",
+    "match_date": "2016-02-06",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Las Palmas",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825761,
+    "season": "2015/2016",
+    "match_date": "2016-02-06",
+    "home_team": "Athletic Club",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825762,
+    "season": "2015/2016",
+    "match_date": "2016-02-06",
+    "home_team": "Sporting Gijón",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825759,
+    "season": "2015/2016",
+    "match_date": "2016-02-05",
+    "home_team": "Málaga",
+    "away_team": "Getafe",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825758,
+    "season": "2015/2016",
+    "match_date": "2016-02-01",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825756,
+    "season": "2015/2016",
+    "match_date": "2016-01-31",
+    "home_team": "Sevilla",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825755,
+    "season": "2015/2016",
+    "match_date": "2016-01-31",
+    "home_team": "Valencia",
+    "away_team": "Sporting Gijón",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825754,
+    "season": "2015/2016",
+    "match_date": "2016-01-31",
+    "home_team": "Las Palmas",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825750,
+    "season": "2015/2016",
+    "match_date": "2016-01-30",
+    "home_team": "Real Sociedad",
+    "away_team": "Real Betis",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825752,
+    "season": "2015/2016",
+    "match_date": "2016-01-30",
+    "home_team": "Eibar",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825751,
+    "season": "2015/2016",
+    "match_date": "2016-01-30",
+    "home_team": "Getafe",
+    "away_team": "Athletic Club",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825753,
+    "season": "2015/2016",
+    "match_date": "2016-01-30",
+    "home_team": "Villarreal",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825749,
+    "season": "2015/2016",
+    "match_date": "2016-01-25",
+    "home_team": "Levante UD",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825747,
+    "season": "2015/2016",
+    "match_date": "2016-01-24",
+    "home_team": "Athletic Club",
+    "away_team": "Eibar",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825748,
+    "season": "2015/2016",
+    "match_date": "2016-01-24",
+    "home_team": "Atlético Madrid",
+    "away_team": "Sevilla",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825745,
+    "season": "2015/2016",
+    "match_date": "2016-01-24",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825746,
+    "season": "2015/2016",
+    "match_date": "2016-01-24",
+    "home_team": "Real Betis",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825743,
+    "season": "2015/2016",
+    "match_date": "2016-01-23",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Celta Vigo",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825744,
+    "season": "2015/2016",
+    "match_date": "2016-01-23",
+    "home_team": "Espanyol",
+    "away_team": "Villarreal",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825742,
+    "season": "2015/2016",
+    "match_date": "2016-01-23",
+    "home_team": "Granada",
+    "away_team": "Getafe",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825741,
+    "season": "2015/2016",
+    "match_date": "2016-01-22",
+    "home_team": "Sporting Gijón",
+    "away_team": "Real Sociedad",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825739,
+    "season": "2015/2016",
+    "match_date": "2016-01-17",
+    "home_team": "Real Madrid",
+    "away_team": "Sporting Gijón",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825738,
+    "season": "2015/2016",
+    "match_date": "2016-01-17",
+    "home_team": "Las Palmas",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825737,
+    "season": "2015/2016",
+    "match_date": "2016-01-17",
+    "home_team": "Getafe",
+    "away_team": "Espanyol",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825734,
+    "season": "2015/2016",
+    "match_date": "2016-01-16",
+    "home_team": "Real Sociedad",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825733,
+    "season": "2015/2016",
+    "match_date": "2016-01-16",
+    "home_team": "Sevilla",
+    "away_team": "Málaga",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825732,
+    "season": "2015/2016",
+    "match_date": "2016-01-16",
+    "home_team": "Celta Vigo",
+    "away_team": "Levante UD",
+    "home_score": 4,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825735,
+    "season": "2015/2016",
+    "match_date": "2016-01-16",
+    "home_team": "Villarreal",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825729,
+    "season": "2015/2016",
+    "match_date": "2016-01-10",
+    "home_team": "Villarreal",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825728,
+    "season": "2015/2016",
+    "match_date": "2016-01-10",
+    "home_team": "Celta Vigo",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825730,
+    "season": "2015/2016",
+    "match_date": "2016-01-10",
+    "home_team": "Real Sociedad",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825727,
+    "season": "2015/2016",
+    "match_date": "2016-01-10",
+    "home_team": "Eibar",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825723,
+    "season": "2015/2016",
+    "match_date": "2016-01-09",
+    "home_team": "Levante UD",
+    "away_team": "Rayo Vallecano",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825726,
+    "season": "2015/2016",
+    "match_date": "2016-01-09",
+    "home_team": "Sevilla",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825725,
+    "season": "2015/2016",
+    "match_date": "2016-01-09",
+    "home_team": "Getafe",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825724,
+    "season": "2015/2016",
+    "match_date": "2016-01-09",
+    "home_team": "Real Madrid",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825722,
+    "season": "2015/2016",
+    "match_date": "2016-01-04",
+    "home_team": "Sporting Gijón",
+    "away_team": "Getafe",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825716,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825719,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "Athletic Club",
+    "away_team": "Las Palmas",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825720,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "Real Betis",
+    "away_team": "Eibar",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 3825717,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "Granada",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825721,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Villarreal",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825718,
+    "season": "2015/2016",
+    "match_date": "2016-01-03",
+    "home_team": "Valencia",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825715,
+    "season": "2015/2016",
+    "match_date": "2016-01-02",
+    "home_team": "Málaga",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825714,
+    "season": "2015/2016",
+    "match_date": "2016-01-02",
+    "home_team": "Atlético Madrid",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825713,
+    "season": "2015/2016",
+    "match_date": "2015-12-31",
+    "home_team": "Villarreal",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825710,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Real Madrid",
+    "away_team": "Real Sociedad",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825709,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Sevilla",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825646,
+    "season": "2015/2016",
+    "match_date": "2015-10-31",
+    "home_team": "Villarreal",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825645,
+    "season": "2015/2016",
+    "match_date": "2015-10-31",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825644,
+    "season": "2015/2016",
+    "match_date": "2015-10-31",
+    "home_team": "Real Sociedad",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825640,
+    "season": "2015/2016",
+    "match_date": "2015-10-25",
+    "home_team": "Levante UD",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 3825639,
+    "season": "2015/2016",
+    "match_date": "2015-10-25",
+    "home_team": "Las Palmas",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825636,
+    "season": "2015/2016",
+    "match_date": "2015-10-24",
+    "home_team": "Málaga",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825635,
+    "season": "2015/2016",
+    "match_date": "2015-10-24",
+    "home_team": "Celta Vigo",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825634,
+    "season": "2015/2016",
+    "match_date": "2015-10-24",
+    "home_team": "Granada",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825633,
+    "season": "2015/2016",
+    "match_date": "2015-10-23",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Espanyol",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825632,
+    "season": "2015/2016",
+    "match_date": "2015-10-19",
+    "home_team": "Sporting Gijón",
+    "away_team": "Granada",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825631,
+    "season": "2015/2016",
+    "match_date": "2015-10-18",
+    "home_team": "Real Sociedad",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825630,
+    "season": "2015/2016",
+    "match_date": "2015-10-18",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825629,
+    "season": "2015/2016",
+    "match_date": "2015-10-18",
+    "home_team": "Villarreal",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825627,
+    "season": "2015/2016",
+    "match_date": "2015-10-17",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825625,
+    "season": "2015/2016",
+    "match_date": "2015-10-17",
+    "home_team": "Real Madrid",
+    "away_team": "Levante UD",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825624,
+    "season": "2015/2016",
+    "match_date": "2015-10-17",
+    "home_team": "Eibar",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825622,
+    "season": "2015/2016",
+    "match_date": "2015-10-04",
+    "home_team": "Athletic Club",
+    "away_team": "Valencia",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825621,
+    "season": "2015/2016",
+    "match_date": "2015-10-04",
+    "home_team": "Atlético Madrid",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825620,
+    "season": "2015/2016",
+    "match_date": "2015-10-04",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825617,
+    "season": "2015/2016",
+    "match_date": "2015-10-03",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825615,
+    "season": "2015/2016",
+    "match_date": "2015-10-03",
+    "home_team": "Espanyol",
+    "away_team": "Sporting Gijón",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825613,
+    "season": "2015/2016",
+    "match_date": "2015-10-02",
+    "home_team": "Celta Vigo",
+    "away_team": "Getafe",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825610,
+    "season": "2015/2016",
+    "match_date": "2015-09-27",
+    "home_team": "Sporting Gijón",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825606,
+    "season": "2015/2016",
+    "match_date": "2015-09-26",
+    "home_team": "Real Madrid",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825605,
+    "season": "2015/2016",
+    "match_date": "2015-09-26",
+    "home_team": "Sevilla",
+    "away_team": "Rayo Vallecano",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825604,
+    "season": "2015/2016",
+    "match_date": "2015-09-25",
+    "home_team": "Valencia",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825603,
+    "season": "2015/2016",
+    "match_date": "2015-09-24",
+    "home_team": "Real Betis",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825602,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Athletic Club",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825600,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Málaga",
+    "away_team": "Villarreal",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825599,
+    "season": "2015/2016",
+    "match_date": "2015-09-22",
+    "home_team": "Espanyol",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825597,
+    "season": "2015/2016",
+    "match_date": "2015-09-20",
+    "home_team": "Las Palmas",
+    "away_team": "Rayo Vallecano",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825596,
+    "season": "2015/2016",
+    "match_date": "2015-09-20",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Sporting Gijón",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825594,
+    "season": "2015/2016",
+    "match_date": "2015-09-20",
+    "home_team": "Sevilla",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825593,
+    "season": "2015/2016",
+    "match_date": "2015-09-19",
+    "home_team": "Eibar",
+    "away_team": "Atlético Madrid",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825592,
+    "season": "2015/2016",
+    "match_date": "2015-09-19",
+    "home_team": "Real Sociedad",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825591,
+    "season": "2015/2016",
+    "match_date": "2015-09-19",
+    "home_team": "Valencia",
+    "away_team": "Real Betis",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825590,
+    "season": "2015/2016",
+    "match_date": "2015-09-19",
+    "home_team": "Real Madrid",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825589,
+    "season": "2015/2016",
+    "match_date": "2015-09-18",
+    "home_team": "Getafe",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825588,
+    "season": "2015/2016",
+    "match_date": "2015-09-14",
+    "home_team": "Rayo Vallecano",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825587,
+    "season": "2015/2016",
+    "match_date": "2015-09-13",
+    "home_team": "Athletic Club",
+    "away_team": "Getafe",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825586,
+    "season": "2015/2016",
+    "match_date": "2015-09-13",
+    "home_team": "Málaga",
+    "away_team": "Eibar",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825585,
+    "season": "2015/2016",
+    "match_date": "2015-09-13",
+    "home_team": "Celta Vigo",
+    "away_team": "Las Palmas",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 3825583,
+    "season": "2015/2016",
+    "match_date": "2015-09-12",
+    "home_team": "Sporting Gijón",
+    "away_team": "Valencia",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825582,
+    "season": "2015/2016",
+    "match_date": "2015-09-12",
+    "home_team": "Real Betis",
+    "away_team": "Real Sociedad",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825581,
+    "season": "2015/2016",
+    "match_date": "2015-09-12",
+    "home_team": "Espanyol",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 6
+  },
+  {
+    "match_id": 3825580,
+    "season": "2015/2016",
+    "match_date": "2015-09-11",
+    "home_team": "Levante UD",
+    "away_team": "Sevilla",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825578,
+    "season": "2015/2016",
+    "match_date": "2015-08-30",
+    "home_team": "Eibar",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825577,
+    "season": "2015/2016",
+    "match_date": "2015-08-30",
+    "home_team": "Getafe",
+    "away_team": "Granada",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825576,
+    "season": "2015/2016",
+    "match_date": "2015-08-30",
+    "home_team": "Valencia",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825575,
+    "season": "2015/2016",
+    "match_date": "2015-08-30",
+    "home_team": "Las Palmas",
+    "away_team": "Levante UD",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825574,
+    "season": "2015/2016",
+    "match_date": "2015-08-29",
+    "home_team": "Celta Vigo",
+    "away_team": "Rayo Vallecano",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825573,
+    "season": "2015/2016",
+    "match_date": "2015-08-29",
+    "home_team": "Real Sociedad",
+    "away_team": "Sporting Gijón",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825571,
+    "season": "2015/2016",
+    "match_date": "2015-08-28",
+    "home_team": "Villarreal",
+    "away_team": "Espanyol",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825569,
+    "season": "2015/2016",
+    "match_date": "2015-08-23",
+    "home_team": "Levante UD",
+    "away_team": "Celta Vigo",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 3825568,
+    "season": "2015/2016",
+    "match_date": "2015-08-23",
+    "home_team": "Real Betis",
+    "away_team": "Villarreal",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 3825567,
+    "season": "2015/2016",
+    "match_date": "2015-08-23",
+    "home_team": "Sporting Gijón",
+    "away_team": "Real Madrid",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825566,
+    "season": "2015/2016",
+    "match_date": "2015-08-22",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Valencia",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825565,
+    "season": "2015/2016",
+    "match_date": "2015-08-22",
+    "home_team": "Espanyol",
+    "away_team": "Getafe",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825564,
+    "season": "2015/2016",
+    "match_date": "2015-08-22",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Real Sociedad",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 3825563,
+    "season": "2015/2016",
+    "match_date": "2015-08-22",
+    "home_team": "Atlético Madrid",
+    "away_team": "Las Palmas",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 266498,
+    "season": "2015/2016",
+    "match_date": "2016-03-12",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 266986,
+    "season": "2015/2016",
+    "match_date": "2016-04-30",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 267533,
+    "season": "2015/2016",
+    "match_date": "2016-04-02",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266310,
+    "season": "2015/2016",
+    "match_date": "2016-04-20",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 8
+  },
+  {
+    "match_id": 267576,
+    "season": "2015/2016",
+    "match_date": "2016-01-30",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 266653,
+    "season": "2015/2016",
+    "match_date": "2016-03-03",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 265944,
+    "season": "2015/2016",
+    "match_date": "2016-04-23",
+    "home_team": "Barcelona",
+    "away_team": "Sporting Gijón",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 265894,
+    "season": "2015/2016",
+    "match_date": "2016-01-23",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 265958,
+    "season": "2015/2016",
+    "match_date": "2016-05-08",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 267611,
+    "season": "2015/2016",
+    "match_date": "2015-09-26",
+    "home_team": "Barcelona",
+    "away_team": "Las Palmas",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 267422,
+    "season": "2015/2016",
+    "match_date": "2015-08-29",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 266236,
+    "season": "2015/2016",
+    "match_date": "2015-08-23",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 267274,
+    "season": "2015/2016",
+    "match_date": "2015-12-05",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 266961,
+    "season": "2015/2016",
+    "match_date": "2015-12-12",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 266885,
+    "season": "2015/2016",
+    "match_date": "2015-11-28",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 266815,
+    "season": "2015/2016",
+    "match_date": "2016-02-17",
+    "home_team": "Sporting Gijón",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 267506,
+    "season": "2015/2016",
+    "match_date": "2016-05-14",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 266664,
+    "season": "2015/2016",
+    "match_date": "2016-04-09",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 266106,
+    "season": "2015/2016",
+    "match_date": "2016-03-20",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 266670,
+    "season": "2015/2016",
+    "match_date": "2016-01-02",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 266149,
+    "season": "2015/2016",
+    "match_date": "2016-01-17",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 266620,
+    "season": "2015/2016",
+    "match_date": "2016-01-09",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 266056,
+    "season": "2015/2016",
+    "match_date": "2016-03-06",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 267327,
+    "season": "2015/2016",
+    "match_date": "2015-12-30",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 266166,
+    "season": "2015/2016",
+    "match_date": "2015-09-12",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266160,
+    "season": "2015/2016",
+    "match_date": "2016-02-07",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 265839,
+    "season": "2015/2016",
+    "match_date": "2016-02-28",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 266424,
+    "season": "2015/2016",
+    "match_date": "2015-11-21",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 266467,
+    "season": "2015/2016",
+    "match_date": "2015-09-23",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 267273,
+    "season": "2015/2016",
+    "match_date": "2016-02-20",
+    "home_team": "Las Palmas",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266490,
+    "season": "2015/2016",
+    "match_date": "2015-09-20",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 266254,
+    "season": "2015/2016",
+    "match_date": "2016-02-14",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 266557,
+    "season": "2015/2016",
+    "match_date": "2016-04-17",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 267183,
+    "season": "2014/2015",
+    "match_date": "2015-03-22",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 265835,
+    "season": "2014/2015",
+    "match_date": "2014-11-22",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 266838,
+    "season": "2014/2015",
+    "match_date": "2014-09-24",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 265963,
+    "season": "2014/2015",
+    "match_date": "2015-04-28",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 266117,
+    "season": "2014/2015",
+    "match_date": "2014-09-27",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 266916,
+    "season": "2014/2015",
+    "match_date": "2015-03-08",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 267197,
+    "season": "2014/2015",
+    "match_date": "2015-05-23",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 70264,
+    "season": "2014/2015",
+    "match_date": "2014-12-13",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 70273,
+    "season": "2014/2015",
+    "match_date": "2014-09-13",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 267301,
+    "season": "2014/2015",
+    "match_date": "2014-11-01",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 265896,
+    "season": "2014/2015",
+    "match_date": "2014-10-18",
+    "home_team": "Barcelona",
+    "away_team": "Eibar",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 265866,
+    "season": "2014/2015",
+    "match_date": "2015-05-02",
+    "home_team": "Córdoba CF",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 8
+  },
+  {
+    "match_id": 267400,
+    "season": "2014/2015",
+    "match_date": "2015-04-08",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 266406,
+    "season": "2014/2015",
+    "match_date": "2014-08-31",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 267085,
+    "season": "2014/2015",
+    "match_date": "2014-10-25",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 267561,
+    "season": "2014/2015",
+    "match_date": "2014-10-04",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 266148,
+    "season": "2014/2015",
+    "match_date": "2015-02-21",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 266045,
+    "season": "2014/2015",
+    "match_date": "2015-05-09",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 70303,
+    "season": "2014/2015",
+    "match_date": "2015-01-11",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 266240,
+    "season": "2014/2015",
+    "match_date": "2015-01-04",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 267597,
+    "season": "2014/2015",
+    "match_date": "2015-02-01",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 266794,
+    "season": "2014/2015",
+    "match_date": "2015-01-24",
+    "home_team": "Elche",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 6
+  },
+  {
+    "match_id": 267343,
+    "season": "2014/2015",
+    "match_date": "2015-02-28",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 266631,
+    "season": "2014/2015",
+    "match_date": "2015-05-17",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 266320,
+    "season": "2014/2015",
+    "match_date": "2014-12-07",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 266230,
+    "season": "2014/2015",
+    "match_date": "2015-01-18",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 266525,
+    "season": "2014/2015",
+    "match_date": "2015-04-18",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 266560,
+    "season": "2014/2015",
+    "match_date": "2014-11-30",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 266846,
+    "season": "2014/2015",
+    "match_date": "2014-12-20",
+    "home_team": "Barcelona",
+    "away_team": "Córdoba CF",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 266531,
+    "season": "2014/2015",
+    "match_date": "2015-04-25",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 266921,
+    "season": "2014/2015",
+    "match_date": "2014-08-24",
+    "home_team": "Barcelona",
+    "away_team": "Elche",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 267499,
+    "season": "2014/2015",
+    "match_date": "2014-11-08",
+    "home_team": "Almería",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 266741,
+    "season": "2014/2015",
+    "match_date": "2015-02-15",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 266871,
+    "season": "2014/2015",
+    "match_date": "2015-02-08",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 5
+  },
+  {
+    "match_id": 266967,
+    "season": "2014/2015",
+    "match_date": "2015-03-14",
+    "home_team": "Eibar",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 266929,
+    "season": "2014/2015",
+    "match_date": "2015-04-05",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 266770,
+    "season": "2014/2015",
+    "match_date": "2014-09-21",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 266142,
+    "season": "2014/2015",
+    "match_date": "2015-04-11",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 267368,
+    "season": "2013/2014",
+    "match_date": "2014-04-05",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 70301,
+    "season": "2013/2014",
+    "match_date": "2013-09-14",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 70298,
+    "season": "2013/2014",
+    "match_date": "2013-09-01",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 70302,
+    "season": "2013/2014",
+    "match_date": "2013-09-21",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 70291,
+    "season": "2013/2014",
+    "match_date": "2014-01-26",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 267138,
+    "season": "2013/2014",
+    "match_date": "2014-04-12",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 267520,
+    "season": "2013/2014",
+    "match_date": "2013-09-24",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 70289,
+    "season": "2013/2014",
+    "match_date": "2014-04-27",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 266066,
+    "season": "2013/2014",
+    "match_date": "2014-03-02",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 267675,
+    "season": "2013/2014",
+    "match_date": "2014-02-09",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 70288,
+    "season": "2013/2014",
+    "match_date": "2014-01-19",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 266074,
+    "season": "2013/2014",
+    "match_date": "2014-03-16",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 7,
+    "away_score": 0
+  },
+  {
+    "match_id": 267567,
+    "season": "2013/2014",
+    "match_date": "2014-04-20",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 266201,
+    "season": "2013/2014",
+    "match_date": "2014-05-11",
+    "home_team": "Elche",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 266274,
+    "season": "2013/2014",
+    "match_date": "2014-03-26",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 70293,
+    "season": "2013/2014",
+    "match_date": "2013-10-26",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 265918,
+    "season": "2013/2014",
+    "match_date": "2014-02-15",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 70277,
+    "season": "2013/2014",
+    "match_date": "2013-08-18",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 7,
+    "away_score": 0
+  },
+  {
+    "match_id": 70283,
+    "season": "2013/2014",
+    "match_date": "2013-11-01",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 70306,
+    "season": "2013/2014",
+    "match_date": "2014-03-29",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 266256,
+    "season": "2013/2014",
+    "match_date": "2014-05-17",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 266613,
+    "season": "2013/2014",
+    "match_date": "2014-02-01",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 266491,
+    "season": "2013/2014",
+    "match_date": "2014-05-03",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 265830,
+    "season": "2013/2014",
+    "match_date": "2014-01-11",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 265857,
+    "season": "2013/2014",
+    "match_date": "2014-03-23",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 4
+  },
+  {
+    "match_id": 266883,
+    "season": "2013/2014",
+    "match_date": "2013-11-10",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 266603,
+    "season": "2013/2014",
+    "match_date": "2014-03-08",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 265837,
+    "season": "2013/2014",
+    "match_date": "2014-02-22",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 266462,
+    "season": "2013/2014",
+    "match_date": "2013-10-19",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 267192,
+    "season": "2013/2014",
+    "match_date": "2013-10-29",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 266420,
+    "season": "2013/2014",
+    "match_date": "2013-09-28",
+    "home_team": "Almería",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 266015,
+    "season": "2012/2013",
+    "match_date": "2012-12-22",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 70270,
+    "season": "2012/2013",
+    "match_date": "2012-09-22",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 70281,
+    "season": "2012/2013",
+    "match_date": "2013-05-05",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 70308,
+    "season": "2012/2013",
+    "match_date": "2012-11-03",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 70282,
+    "season": "2012/2013",
+    "match_date": "2013-02-03",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 266724,
+    "season": "2012/2013",
+    "match_date": "2012-11-11",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 70272,
+    "season": "2012/2013",
+    "match_date": "2013-03-02",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 70304,
+    "season": "2012/2013",
+    "match_date": "2012-10-20",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 5
+  },
+  {
+    "match_id": 70280,
+    "season": "2012/2013",
+    "match_date": "2012-11-25",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 70296,
+    "season": "2012/2013",
+    "match_date": "2012-12-16",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 70297,
+    "season": "2012/2013",
+    "match_date": "2013-02-10",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 266433,
+    "season": "2012/2013",
+    "match_date": "2013-01-06",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 70256,
+    "season": "2012/2013",
+    "match_date": "2013-03-30",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 70259,
+    "season": "2012/2013",
+    "match_date": "2012-08-19",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 70260,
+    "season": "2012/2013",
+    "match_date": "2013-01-27",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 70263,
+    "season": "2012/2013",
+    "match_date": "2012-12-01",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 70276,
+    "season": "2012/2013",
+    "match_date": "2012-10-27",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 70287,
+    "season": "2012/2013",
+    "match_date": "2013-01-19",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 70284,
+    "season": "2012/2013",
+    "match_date": "2013-05-12",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 70275,
+    "season": "2012/2013",
+    "match_date": "2012-09-29",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 70286,
+    "season": "2012/2013",
+    "match_date": "2012-09-02",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 70309,
+    "season": "2012/2013",
+    "match_date": "2012-11-17",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 70300,
+    "season": "2012/2013",
+    "match_date": "2012-10-07",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 70295,
+    "season": "2012/2013",
+    "match_date": "2012-12-09",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 70307,
+    "season": "2012/2013",
+    "match_date": "2013-03-17",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 70305,
+    "season": "2012/2013",
+    "match_date": "2013-03-09",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 266827,
+    "season": "2012/2013",
+    "match_date": "2013-01-13",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 267502,
+    "season": "2012/2013",
+    "match_date": "2013-04-27",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 70271,
+    "season": "2012/2013",
+    "match_date": "2013-02-23",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 70294,
+    "season": "2012/2013",
+    "match_date": "2013-02-16",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 70262,
+    "season": "2012/2013",
+    "match_date": "2012-08-26",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 70292,
+    "season": "2012/2013",
+    "match_date": "2012-09-15",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69328,
+    "season": "2011/2012",
+    "match_date": "2012-02-19",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 69329,
+    "season": "2011/2012",
+    "match_date": "2011-10-22",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 70219,
+    "season": "2011/2012",
+    "match_date": "2012-04-07",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69331,
+    "season": "2011/2012",
+    "match_date": "2011-11-19",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69337,
+    "season": "2011/2012",
+    "match_date": "2012-02-26",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69322,
+    "season": "2011/2012",
+    "match_date": "2012-03-11",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69316,
+    "season": "2011/2012",
+    "match_date": "2012-02-04",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69332,
+    "season": "2011/2012",
+    "match_date": "2011-11-29",
+    "home_team": "Barcelona",
+    "away_team": "Rayo Vallecano",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69335,
+    "season": "2011/2012",
+    "match_date": "2012-01-22",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69330,
+    "season": "2011/2012",
+    "match_date": "2011-11-06",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69297,
+    "season": "2011/2012",
+    "match_date": "2011-09-24",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69325,
+    "season": "2011/2012",
+    "match_date": "2012-03-24",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69324,
+    "season": "2011/2012",
+    "match_date": "2012-04-21",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 70225,
+    "season": "2011/2012",
+    "match_date": "2012-03-20",
+    "home_team": "Barcelona",
+    "away_team": "Granada",
+    "home_score": 5,
+    "away_score": 3
+  },
+  {
+    "match_id": 69293,
+    "season": "2011/2012",
+    "match_date": "2011-10-15",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 70223,
+    "season": "2011/2012",
+    "match_date": "2011-09-21",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69333,
+    "season": "2011/2012",
+    "match_date": "2011-12-03",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69264,
+    "season": "2011/2012",
+    "match_date": "2011-09-10",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69343,
+    "season": "2011/2012",
+    "match_date": "2012-04-10",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69340,
+    "season": "2011/2012",
+    "match_date": "2012-05-02",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69265,
+    "season": "2011/2012",
+    "match_date": "2011-10-02",
+    "home_team": "Sporting Gijón",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69319,
+    "season": "2011/2012",
+    "match_date": "2012-05-12",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69334,
+    "season": "2011/2012",
+    "match_date": "2011-12-10",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 69327,
+    "season": "2011/2012",
+    "match_date": "2012-01-15",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 69315,
+    "season": "2011/2012",
+    "match_date": "2011-11-26",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69336,
+    "season": "2011/2012",
+    "match_date": "2012-02-11",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 69326,
+    "season": "2011/2012",
+    "match_date": "2012-03-17",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69268,
+    "season": "2011/2012",
+    "match_date": "2011-08-29",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69320,
+    "season": "2011/2012",
+    "match_date": "2012-05-05",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69312,
+    "season": "2011/2012",
+    "match_date": "2012-01-08",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69314,
+    "season": "2011/2012",
+    "match_date": "2011-10-29",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69318,
+    "season": "2011/2012",
+    "match_date": "2011-10-25",
+    "home_team": "Granada",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69338,
+    "season": "2011/2012",
+    "match_date": "2012-01-28",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 70220,
+    "season": "2011/2012",
+    "match_date": "2011-09-17",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 8,
+    "away_score": 0
+  },
+  {
+    "match_id": 70224,
+    "season": "2011/2012",
+    "match_date": "2012-04-29",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 7
+  },
+  {
+    "match_id": 70221,
+    "season": "2011/2012",
+    "match_date": "2012-04-14",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69323,
+    "season": "2011/2012",
+    "match_date": "2012-03-31",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69276,
+    "season": "2010/2011",
+    "match_date": "2011-02-05",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69304,
+    "season": "2010/2011",
+    "match_date": "2011-04-02",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69307,
+    "season": "2010/2011",
+    "match_date": "2010-12-04",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69271,
+    "season": "2010/2011",
+    "match_date": "2011-04-23",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69305,
+    "season": "2010/2011",
+    "match_date": "2011-04-09",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 69278,
+    "season": "2010/2011",
+    "match_date": "2011-01-16",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69275,
+    "season": "2010/2011",
+    "match_date": "2010-12-18",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 69295,
+    "season": "2010/2011",
+    "match_date": "2011-01-22",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69270,
+    "season": "2010/2011",
+    "match_date": "2010-11-07",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 69303,
+    "season": "2010/2011",
+    "match_date": "2011-03-19",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69245,
+    "season": "2010/2011",
+    "match_date": "2011-04-16",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69287,
+    "season": "2010/2011",
+    "match_date": "2010-09-11",
+    "home_team": "Barcelona",
+    "away_team": "Hércules",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69296,
+    "season": "2010/2011",
+    "match_date": "2011-01-29",
+    "home_team": "Hércules",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69260,
+    "season": "2010/2011",
+    "match_date": "2010-10-16",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69269,
+    "season": "2010/2011",
+    "match_date": "2010-09-19",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69246,
+    "season": "2010/2011",
+    "match_date": "2011-04-30",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69302,
+    "season": "2010/2011",
+    "match_date": "2010-12-12",
+    "home_team": "Barcelona",
+    "away_team": "Real Sociedad",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69282,
+    "season": "2010/2011",
+    "match_date": "2011-02-20",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69274,
+    "season": "2010/2011",
+    "match_date": "2011-03-02",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69283,
+    "season": "2010/2011",
+    "match_date": "2011-02-26",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69280,
+    "season": "2010/2011",
+    "match_date": "2011-01-08",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 69286,
+    "season": "2010/2011",
+    "match_date": "2010-08-29",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69291,
+    "season": "2010/2011",
+    "match_date": "2011-03-13",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69236,
+    "season": "2010/2011",
+    "match_date": "2010-10-03",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69234,
+    "season": "2010/2011",
+    "match_date": "2011-05-08",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69272,
+    "season": "2010/2011",
+    "match_date": "2011-05-11",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69308,
+    "season": "2010/2011",
+    "match_date": "2010-11-13",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 69299,
+    "season": "2010/2011",
+    "match_date": "2010-11-29",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69300,
+    "season": "2010/2011",
+    "match_date": "2011-03-05",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69289,
+    "season": "2010/2011",
+    "match_date": "2010-10-30",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69263,
+    "season": "2010/2011",
+    "match_date": "2010-10-23",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69306,
+    "season": "2010/2011",
+    "match_date": "2010-11-20",
+    "home_team": "Almería",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 8
+  },
+  {
+    "match_id": 69248,
+    "season": "2010/2011",
+    "match_date": "2011-02-12",
+    "home_team": "Sporting Gijón",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69243,
+    "season": "2009/2010",
+    "match_date": "2010-01-16",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69241,
+    "season": "2009/2010",
+    "match_date": "2010-05-04",
+    "home_team": "Barcelona",
+    "away_team": "Tenerife",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69239,
+    "season": "2009/2010",
+    "match_date": "2010-05-08",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 69257,
+    "season": "2009/2010",
+    "match_date": "2010-03-24",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69253,
+    "season": "2009/2010",
+    "match_date": "2009-10-25",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 69244,
+    "season": "2009/2010",
+    "match_date": "2010-05-01",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69277,
+    "season": "2009/2010",
+    "match_date": "2009-10-31",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69229,
+    "season": "2009/2010",
+    "match_date": "2009-09-12",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69219,
+    "season": "2009/2010",
+    "match_date": "2010-01-10",
+    "home_team": "Tenerife",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  },
+  {
+    "match_id": 69218,
+    "season": "2009/2010",
+    "match_date": "2009-12-05",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 69250,
+    "season": "2009/2010",
+    "match_date": "2009-11-07",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 69242,
+    "season": "2009/2010",
+    "match_date": "2010-05-16",
+    "home_team": "Barcelona",
+    "away_team": "Real Valladolid",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69256,
+    "season": "2009/2010",
+    "match_date": "2009-10-03",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69298,
+    "season": "2009/2010",
+    "match_date": "2010-03-27",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69259,
+    "season": "2009/2010",
+    "match_date": "2010-04-10",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69224,
+    "season": "2009/2010",
+    "match_date": "2010-03-14",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69210,
+    "season": "2009/2010",
+    "match_date": "2010-01-23",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69220,
+    "season": "2009/2010",
+    "match_date": "2010-01-30",
+    "home_team": "Sporting Gijón",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69237,
+    "season": "2009/2010",
+    "match_date": "2010-02-14",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69226,
+    "season": "2009/2010",
+    "match_date": "2010-03-06",
+    "home_team": "Almería",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69252,
+    "season": "2009/2010",
+    "match_date": "2009-10-17",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 69255,
+    "season": "2009/2010",
+    "match_date": "2009-09-26",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69214,
+    "season": "2009/2010",
+    "match_date": "2010-04-24",
+    "home_team": "Barcelona",
+    "away_team": "Xerez",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 69262,
+    "season": "2009/2010",
+    "match_date": "2009-11-29",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69240,
+    "season": "2009/2010",
+    "match_date": "2010-02-06",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69233,
+    "season": "2009/2010",
+    "match_date": "2010-02-20",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69213,
+    "season": "2009/2010",
+    "match_date": "2010-04-17",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 69238,
+    "season": "2009/2010",
+    "match_date": "2010-02-27",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69267,
+    "season": "2009/2010",
+    "match_date": "2009-12-02",
+    "home_team": "Xerez",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69288,
+    "season": "2009/2010",
+    "match_date": "2009-11-21",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69254,
+    "season": "2009/2010",
+    "match_date": "2009-09-22",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69292,
+    "season": "2009/2010",
+    "match_date": "2009-09-19",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "match_id": 69227,
+    "season": "2009/2010",
+    "match_date": "2010-03-21",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 4
+  },
+  {
+    "match_id": 69247,
+    "season": "2009/2010",
+    "match_date": "2010-04-03",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69221,
+    "season": "2009/2010",
+    "match_date": "2010-04-14",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69225,
+    "season": "2008/2009",
+    "match_date": "2008-12-13",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69212,
+    "season": "2008/2009",
+    "match_date": "2008-10-04",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 6,
+    "away_score": 1
+  },
+  {
+    "match_id": 69235,
+    "season": "2008/2009",
+    "match_date": "2008-11-01",
+    "home_team": "Málaga",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69232,
+    "season": "2008/2009",
+    "match_date": "2008-10-25",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69216,
+    "season": "2008/2009",
+    "match_date": "2009-03-07",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69209,
+    "season": "2008/2009",
+    "match_date": "2009-02-01",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69231,
+    "season": "2008/2009",
+    "match_date": "2009-02-08",
+    "home_team": "Barcelona",
+    "away_team": "Sporting Gijón",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 69217,
+    "season": "2008/2009",
+    "match_date": "2009-05-10",
+    "home_team": "Barcelona",
+    "away_team": "Villarreal",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 69273,
+    "season": "2008/2009",
+    "match_date": "2009-04-04",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69222,
+    "season": "2008/2009",
+    "match_date": "2009-04-11",
+    "home_team": "Barcelona",
+    "away_team": "Recreativo Huelva",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69223,
+    "season": "2008/2009",
+    "match_date": "2009-04-18",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 69195,
+    "season": "2008/2009",
+    "match_date": "2009-02-14",
+    "home_team": "Real Betis",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69251,
+    "season": "2008/2009",
+    "match_date": "2009-04-25",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69185,
+    "season": "2008/2009",
+    "match_date": "2009-03-01",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 3
+  },
+  {
+    "match_id": 69142,
+    "season": "2008/2009",
+    "match_date": "2009-03-22",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 69139,
+    "season": "2008/2009",
+    "match_date": "2009-02-21",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69189,
+    "season": "2008/2009",
+    "match_date": "2009-01-24",
+    "home_team": "Barcelona",
+    "away_team": "CD Numancia de Soria",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69171,
+    "season": "2008/2009",
+    "match_date": "2008-11-29",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69249,
+    "season": "2008/2009",
+    "match_date": "2009-05-02",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 6
+  },
+  {
+    "match_id": 69215,
+    "season": "2008/2009",
+    "match_date": "2008-09-13",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69138,
+    "season": "2008/2009",
+    "match_date": "2008-09-21",
+    "home_team": "Sporting Gijón",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 6
+  },
+  {
+    "match_id": 69147,
+    "season": "2008/2009",
+    "match_date": "2008-08-31",
+    "home_team": "CD Numancia de Soria",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69177,
+    "season": "2008/2009",
+    "match_date": "2009-03-15",
+    "home_team": "Almería",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69207,
+    "season": "2008/2009",
+    "match_date": "2008-09-24",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 3,
+    "away_score": 2
+  },
+  {
+    "match_id": 69228,
+    "season": "2008/2009",
+    "match_date": "2008-12-21",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69183,
+    "season": "2008/2009",
+    "match_date": "2009-01-17",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "match_id": 69279,
+    "season": "2008/2009",
+    "match_date": "2008-11-08",
+    "home_team": "Barcelona",
+    "away_team": "Real Valladolid",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 69285,
+    "season": "2008/2009",
+    "match_date": "2008-11-16",
+    "home_team": "Recreativo Huelva",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 69211,
+    "season": "2008/2009",
+    "match_date": "2008-09-27",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 69230,
+    "season": "2008/2009",
+    "match_date": "2009-01-11",
+    "home_team": "Osasuna",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 69149,
+    "season": "2008/2009",
+    "match_date": "2008-12-06",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 69151,
+    "season": "2007/2008",
+    "match_date": "2007-09-29",
+    "home_team": "Levante UD",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 4
+  },
+  {
+    "match_id": 69144,
+    "season": "2007/2008",
+    "match_date": "2007-10-07",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69169,
+    "season": "2007/2008",
+    "match_date": "2007-09-02",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 68360,
+    "season": "2007/2008",
+    "match_date": "2008-02-24",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 69186,
+    "season": "2007/2008",
+    "match_date": "2008-05-17",
+    "home_team": "Real Murcia CF",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 5
+  },
+  {
+    "match_id": 69180,
+    "season": "2007/2008",
+    "match_date": "2007-08-26",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 69143,
+    "season": "2007/2008",
+    "match_date": "2007-09-26",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69181,
+    "season": "2007/2008",
+    "match_date": "2008-01-27",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 68365,
+    "season": "2007/2008",
+    "match_date": "2008-03-01",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 2
+  },
+  {
+    "match_id": 69178,
+    "season": "2007/2008",
+    "match_date": "2007-11-10",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68364,
+    "season": "2007/2008",
+    "match_date": "2007-10-20",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 69170,
+    "season": "2007/2008",
+    "match_date": "2007-12-09",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 68359,
+    "season": "2007/2008",
+    "match_date": "2008-04-19",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 0,
+    "away_score": 0
+  },
+  {
+    "match_id": 68356,
+    "season": "2007/2008",
+    "match_date": "2007-12-01",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69158,
+    "season": "2007/2008",
+    "match_date": "2007-10-28",
+    "home_team": "Barcelona",
+    "away_team": "Almería",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69187,
+    "season": "2007/2008",
+    "match_date": "2008-02-03",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 68363,
+    "season": "2007/2008",
+    "match_date": "2007-11-01",
+    "home_team": "Real Valladolid",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69166,
+    "season": "2007/2008",
+    "match_date": "2007-11-04",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 68366,
+    "season": "2007/2008",
+    "match_date": "2008-05-11",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 69148,
+    "season": "2007/2008",
+    "match_date": "2007-09-22",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69184,
+    "season": "2007/2008",
+    "match_date": "2007-11-24",
+    "home_team": "Barcelona",
+    "away_team": "Recreativo Huelva",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69173,
+    "season": "2007/2008",
+    "match_date": "2008-01-20",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69146,
+    "season": "2007/2008",
+    "match_date": "2008-02-09",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 69182,
+    "season": "2007/2008",
+    "match_date": "2008-02-16",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 68358,
+    "season": "2007/2008",
+    "match_date": "2008-04-12",
+    "home_team": "Recreativo Huelva",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 68361,
+    "season": "2007/2008",
+    "match_date": "2008-05-07",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 69141,
+    "season": "2007/2008",
+    "match_date": "2008-05-04",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 6,
+    "away_score": 0
+  },
+  {
+    "match_id": 69145,
+    "season": "2007/2008",
+    "match_date": "2007-12-15",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69176,
+    "season": "2006/2007",
+    "match_date": "2007-05-20",
+    "home_team": "Atlético Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 6
+  },
+  {
+    "match_id": 69179,
+    "season": "2006/2007",
+    "match_date": "2007-04-07",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 68334,
+    "season": "2006/2007",
+    "match_date": "2007-03-03",
+    "home_team": "Sevilla",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 68333,
+    "season": "2006/2007",
+    "match_date": "2007-02-25",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 68336,
+    "season": "2006/2007",
+    "match_date": "2007-06-17",
+    "home_team": "Gimnàstic Tarragona",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 5
+  },
+  {
+    "match_id": 68326,
+    "season": "2006/2007",
+    "match_date": "2006-08-28",
+    "home_team": "Celta Vigo",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 3
+  },
+  {
+    "match_id": 69162,
+    "season": "2006/2007",
+    "match_date": "2007-05-13",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 68335,
+    "season": "2006/2007",
+    "match_date": "2007-03-10",
+    "home_team": "Barcelona",
+    "away_team": "Real Madrid",
+    "home_score": 3,
+    "away_score": 3
+  },
+  {
+    "match_id": 68332,
+    "season": "2006/2007",
+    "match_date": "2007-02-18",
+    "home_team": "Valencia",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 68330,
+    "season": "2006/2007",
+    "match_date": "2006-10-22",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68329,
+    "season": "2006/2007",
+    "match_date": "2006-10-15",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 68341,
+    "season": "2006/2007",
+    "match_date": "2007-03-17",
+    "home_team": "Recreativo Huelva",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 4
+  },
+  {
+    "match_id": 69165,
+    "season": "2006/2007",
+    "match_date": "2007-06-09",
+    "home_team": "Barcelona",
+    "away_team": "Espanyol",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 69155,
+    "season": "2006/2007",
+    "match_date": "2007-04-22",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69154,
+    "season": "2006/2007",
+    "match_date": "2007-02-11",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69156,
+    "season": "2006/2007",
+    "match_date": "2007-04-29",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69159,
+    "season": "2006/2007",
+    "match_date": "2007-04-15",
+    "home_team": "Barcelona",
+    "away_team": "Mallorca",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69175,
+    "season": "2006/2007",
+    "match_date": "2007-03-31",
+    "home_team": "Barcelona",
+    "away_team": "RC Deportivo La Coruña",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69160,
+    "season": "2006/2007",
+    "match_date": "2007-05-05",
+    "home_team": "Real Sociedad",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 68331,
+    "season": "2006/2007",
+    "match_date": "2006-11-12",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 3,
+    "away_score": 1
+  },
+  {
+    "match_id": 68328,
+    "season": "2006/2007",
+    "match_date": "2006-09-24",
+    "home_team": "Barcelona",
+    "away_team": "Valencia",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 68340,
+    "season": "2006/2007",
+    "match_date": "2006-09-17",
+    "home_team": "Racing Santander",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 69174,
+    "season": "2006/2007",
+    "match_date": "2006-11-04",
+    "home_team": "RC Deportivo La Coruña",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 1
+  },
+  {
+    "match_id": 68347,
+    "season": "2006/2007",
+    "match_date": "2006-09-30",
+    "home_team": "Athletic Club",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 68327,
+    "season": "2006/2007",
+    "match_date": "2006-09-09",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 69157,
+    "season": "2006/2007",
+    "match_date": "2007-05-26",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 1,
+    "away_score": 0
+  },
+  {
+    "match_id": 69164,
+    "season": "2005/2006",
+    "match_date": "2005-10-26",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68324,
+    "season": "2005/2006",
+    "match_date": "2006-01-22",
+    "home_team": "Barcelona",
+    "away_team": "Deportivo Alavés",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68320,
+    "season": "2005/2006",
+    "match_date": "2005-12-04",
+    "home_team": "Villarreal",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 68323,
+    "season": "2005/2006",
+    "match_date": "2005-12-20",
+    "home_team": "Barcelona",
+    "away_team": "Celta Vigo",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 69172,
+    "season": "2005/2006",
+    "match_date": "2006-02-18",
+    "home_team": "Barcelona",
+    "away_team": "Real Betis",
+    "home_score": 5,
+    "away_score": 1
+  },
+  {
+    "match_id": 68339,
+    "season": "2005/2006",
+    "match_date": "2005-11-06",
+    "home_team": "Getafe",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 68348,
+    "season": "2005/2006",
+    "match_date": "2006-01-07",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 68354,
+    "season": "2005/2006",
+    "match_date": "2005-11-27",
+    "home_team": "Barcelona",
+    "away_team": "Racing Santander",
+    "home_score": 4,
+    "away_score": 1
+  },
+  {
+    "match_id": 68351,
+    "season": "2005/2006",
+    "match_date": "2006-02-25",
+    "home_team": "Real Zaragoza",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 2
+  },
+  {
+    "match_id": 68317,
+    "season": "2005/2006",
+    "match_date": "2005-10-01",
+    "home_team": "Barcelona",
+    "away_team": "Real Zaragoza",
+    "home_score": 2,
+    "away_score": 2
+  },
+  {
+    "match_id": 68350,
+    "season": "2005/2006",
+    "match_date": "2006-02-05",
+    "home_team": "Barcelona",
+    "away_team": "Atlético Madrid",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 68325,
+    "season": "2005/2006",
+    "match_date": "2006-01-29",
+    "home_team": "Mallorca",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 68321,
+    "season": "2005/2006",
+    "match_date": "2005-12-11",
+    "home_team": "Barcelona",
+    "away_team": "Sevilla",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 68319,
+    "season": "2005/2006",
+    "match_date": "2005-11-19",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 3
+  },
+  {
+    "match_id": 68342,
+    "season": "2005/2006",
+    "match_date": "2006-01-15",
+    "home_team": "Barcelona",
+    "away_team": "Athletic Club",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 68322,
+    "season": "2005/2006",
+    "match_date": "2005-12-17",
+    "home_team": "Cádiz",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 3
+  },
+  {
+    "match_id": 68318,
+    "season": "2005/2006",
+    "match_date": "2005-10-22",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 68314,
+    "season": "2004/2005",
+    "match_date": "2004-12-04",
+    "home_team": "Barcelona",
+    "away_team": "Málaga",
+    "home_score": 4,
+    "away_score": 0
+  },
+  {
+    "match_id": 68313,
+    "season": "2004/2005",
+    "match_date": "2004-10-24",
+    "home_team": "Barcelona",
+    "away_team": "Osasuna",
+    "home_score": 3,
+    "away_score": 0
+  },
+  {
+    "match_id": 68316,
+    "season": "2004/2005",
+    "match_date": "2005-05-01",
+    "home_team": "Barcelona",
+    "away_team": "Albacete",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68315,
+    "season": "2004/2005",
+    "match_date": "2004-12-21",
+    "home_team": "Barcelona",
+    "away_team": "Levante UD",
+    "home_score": 2,
+    "away_score": 1
+  },
+  {
+    "match_id": 69153,
+    "season": "2004/2005",
+    "match_date": "2004-12-11",
+    "home_team": "Albacete",
+    "away_team": "Barcelona",
+    "home_score": 1,
+    "away_score": 2
+  },
+  {
+    "match_id": 68352,
+    "season": "2004/2005",
+    "match_date": "2005-04-17",
+    "home_team": "Barcelona",
+    "away_team": "Getafe",
+    "home_score": 2,
+    "away_score": 0
+  },
+  {
+    "match_id": 68353,
+    "season": "2004/2005",
+    "match_date": "2004-10-16",
+    "home_team": "Espanyol",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 1
+  },
+  {
+    "match_id": 3888713,
+    "season": "1973/1974",
+    "match_date": "1974-02-17",
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona",
+    "home_score": 0,
+    "away_score": 5
+  }
+]
